@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import '../styles/Gallery.css';
 
 const Lightbox = ({ lightboxData, closeLightbox }) => {
-  // Close on Escape key
+ 
   useEffect(() => {
     const handleEscape = (e) => {
       if (e.key === 'Escape') {

@@ -80,7 +80,7 @@
   backdrop-filter: blur(10px);
 }
 
-/* Modal */
+
 .modal {
   position: fixed;
   top: 0;
@@ -188,7 +188,7 @@
   }
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .projects-grid {
     grid-template-columns: 1fr;

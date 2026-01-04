@@ -70,7 +70,7 @@
   width: 100%;
 }
 
-/* Hamburger Menu */
+
 .hamburger {
   display: none;
   flex-direction: column;
@@ -101,7 +101,7 @@
   transform: rotate(-45deg) translate(8px, -8px);
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 768px) {
   .hamburger {
     display: flex;

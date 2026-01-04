@@ -95,7 +95,7 @@
   font-size: 20px;
 }
 
-/* Footer Bottom */
+
 .footer-bottom {
   padding-top: 30px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -108,7 +108,7 @@
   margin: 0;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .footer-content {
     grid-template-columns: 1fr;

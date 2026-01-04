@@ -5,7 +5,7 @@ import "../styles/Hero.css";
 const Hero = () => {
   const [downloadSuccess, setDownloadSuccess] = useState(false);
 
-  // ✅ DIRECT PDF DOWNLOAD
+  
   const downloadResume = () => {
     const link = document.createElement("a");
     link.href = "/Esha_Abinaya_Sree_Resume.pdf";

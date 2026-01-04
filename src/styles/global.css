@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-/* CSS Variables for Theme */
+
 :root {
-  /* Light Mode Colors */
+  
   --bg-primary: #ffffff;
   --bg-secondary: #f5f7fa;
   --bg-gradient-start: #f5f7fa;
@@ -20,7 +20,7 @@
   --footer-bg: #1a1a2e;
 }
 
-/* Dark Mode Colors */
+
 [data-theme='dark'] {
   --bg-primary: #1a1a2e;
   --bg-secondary: #16213e;
@@ -58,7 +58,7 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Scrollbar Styles */
+
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -76,7 +76,7 @@ body {
   background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
 }
 
-/* Selection */
+
 ::selection {
   background: #667eea;
   color: white;
@@ -87,7 +87,7 @@ body {
   color: white;
 }
 
-/* Section Title - Global Style */
+
 .section-title {
   font-size: 42px;
   font-weight: 700;
